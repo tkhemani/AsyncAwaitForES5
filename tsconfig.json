@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "lib": [ "es2015.promise", "es5"],
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+       // "sourceMap": true,
+        "inlineSourceMap": true,
+        "watch": true
+    }
+    // "files": [
+    //     "./index.ts",
+    //     "./typings/es6-promise/es6-promise.d.ts"
+    // ]
+}
